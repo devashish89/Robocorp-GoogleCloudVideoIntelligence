@@ -1,0 +1,891 @@
+{
+  "annotationResults": [
+    {
+      "segmentLabelAnnotations": [
+        {
+          "entity": {
+            "entityId": "/m/023ls",
+            "description": "cola",
+            "languageCode": "en-US"
+          },
+          "categoryEntities": [
+            {
+              "entityId": "/m/0271t",
+              "description": "drink",
+              "languageCode": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "0s",
+                "endTimeOffset": "29.766666s"
+              },
+              "confidence": 0.95756346
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/0271t",
+            "description": "drink",
+            "languageCode": "en-US"
+          },
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "0s",
+                "endTimeOffset": "29.766666s"
+              },
+              "confidence": 0.8635868
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/064d7",
+            "description": "pepsi",
+            "languageCode": "en-US"
+          },
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "0s",
+                "endTimeOffset": "29.766666s"
+              },
+              "confidence": 0.54782003
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/06qrr",
+            "description": "soft drink",
+            "languageCode": "en-US"
+          },
+          "categoryEntities": [
+            {
+              "entityId": "/m/0271t",
+              "description": "drink",
+              "languageCode": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "0s",
+                "endTimeOffset": "29.766666s"
+              },
+              "confidence": 0.821561
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/01yvs",
+            "description": "coca cola",
+            "languageCode": "en-US"
+          },
+          "categoryEntities": [
+            {
+              "entityId": "/m/023ls",
+              "description": "cola",
+              "languageCode": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "0s",
+                "endTimeOffset": "29.766666s"
+              },
+              "confidence": 0.991999
+            }
+          ]
+        }
+      ],
+      "shotLabelAnnotations": [
+        {
+          "entity": {
+            "entityId": "/m/02tjx",
+            "description": "emotion",
+            "languageCode": "en-US"
+          },
+          "categoryEntities": [
+            {
+              "entityId": "/m/01g317",
+              "description": "person",
+              "languageCode": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "4.366666s",
+                "endTimeOffset": "5.666666s"
+              },
+              "confidence": 0.35758683
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/018w1s",
+            "description": "public library",
+            "languageCode": "en-US"
+          },
+          "categoryEntities": [
+            {
+              "entityId": "/m/04h8h",
+              "description": "library",
+              "languageCode": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "11s",
+                "endTimeOffset": "11.900s"
+              },
+              "confidence": 0.684708
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/03__z0",
+            "description": "bookcase",
+            "languageCode": "en-US"
+          },
+          "categoryEntities": [
+            {
+              "entityId": "/m/0c_jw",
+              "description": "furniture",
+              "languageCode": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "11s",
+                "endTimeOffset": "11.900s"
+              },
+              "confidence": 0.38039425
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/03gq5hm",
+            "description": "font",
+            "languageCode": "en-US"
+          },
+          "categoryEntities": [
+            {
+              "entityId": "/m/01mf0",
+              "description": "software",
+              "languageCode": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "28.800s",
+                "endTimeOffset": "29.766666s"
+              },
+              "confidence": 0.5577089
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/02wbm",
+            "description": "food",
+            "languageCode": "en-US"
+          },
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "23.666666s",
+                "endTimeOffset": "28.766666s"
+              },
+              "confidence": 0.3972547
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/0dwx7",
+            "description": "logo",
+            "languageCode": "en-US"
+          },
+          "categoryEntities": [
+            {
+              "entityId": "/m/021sdg",
+              "description": "graphics",
+              "languageCode": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "28.800s",
+                "endTimeOffset": "29.766666s"
+              },
+              "confidence": 0.56253356
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/021sdg",
+            "description": "graphics",
+            "languageCode": "en-US"
+          },
+          "categoryEntities": [
+            {
+              "entityId": "/m/0dgsmq8",
+              "description": "artwork",
+              "languageCode": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "28.800s",
+                "endTimeOffset": "29.766666s"
+              },
+              "confidence": 0.5665907
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/06qrr",
+            "description": "soft drink",
+            "languageCode": "en-US"
+          },
+          "categoryEntities": [
+            {
+              "entityId": "/m/0271t",
+              "description": "drink",
+              "languageCode": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "0s",
+                "endTimeOffset": "0.900s"
+              },
+              "confidence": 0.94695365
+            },
+            {
+              "segment": {
+                "startTimeOffset": "0.933333s",
+                "endTimeOffset": "2.700s"
+              },
+              "confidence": 0.6152039
+            },
+            {
+              "segment": {
+                "startTimeOffset": "23.666666s",
+                "endTimeOffset": "28.766666s"
+              },
+              "confidence": 0.8706285
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/015c4z",
+            "description": "sitting",
+            "languageCode": "en-US"
+          },
+          "categoryEntities": [
+            {
+              "entityId": "/m/01g317",
+              "description": "person",
+              "languageCode": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "16.666666s",
+                "endTimeOffset": "18.100s"
+              },
+              "confidence": 0.3018627
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/025l6q",
+            "description": "darkroom",
+            "languageCode": "en-US"
+          },
+          "categoryEntities": [
+            {
+              "entityId": "/m/05wkw",
+              "description": "photography",
+              "languageCode": "en-US"
+            },
+            {
+              "entityId": "/m/06ht1",
+              "description": "room",
+              "languageCode": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "13.266666s",
+                "endTimeOffset": "14.300s"
+              },
+              "confidence": 0.40078568
+            },
+            {
+              "segment": {
+                "startTimeOffset": "15.666666s",
+                "endTimeOffset": "16.633333s"
+              },
+              "confidence": 0.4307179
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/0271t",
+            "description": "drink",
+            "languageCode": "en-US"
+          },
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "0s",
+                "endTimeOffset": "0.900s"
+              },
+              "confidence": 0.98204714
+            },
+            {
+              "segment": {
+                "startTimeOffset": "0.933333s",
+                "endTimeOffset": "2.700s"
+              },
+              "confidence": 0.87350047
+            },
+            {
+              "segment": {
+                "startTimeOffset": "19.766666s",
+                "endTimeOffset": "21s"
+              },
+              "confidence": 0.9686296
+            },
+            {
+              "segment": {
+                "startTimeOffset": "23.666666s",
+                "endTimeOffset": "28.766666s"
+              },
+              "confidence": 0.9686296
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/01k74n",
+            "description": "facial expression",
+            "languageCode": "en-US"
+          },
+          "categoryEntities": [
+            {
+              "entityId": "/m/01g317",
+              "description": "person",
+              "languageCode": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "4.366666s",
+                "endTimeOffset": "5.666666s"
+              },
+              "confidence": 0.5203724
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/04h8h",
+            "description": "library",
+            "languageCode": "en-US"
+          },
+          "categoryEntities": [
+            {
+              "entityId": "/m/0cgh4",
+              "description": "building",
+              "languageCode": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "11s",
+                "endTimeOffset": "11.900s"
+              },
+              "confidence": 0.93644685
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/02rlncx",
+            "description": "plastic bottle",
+            "languageCode": "en-US"
+          },
+          "categoryEntities": [
+            {
+              "entityId": "/m/04dr76w",
+              "description": "bottle",
+              "languageCode": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "0s",
+                "endTimeOffset": "0.900s"
+              },
+              "confidence": 0.5418346
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/059r7w6",
+            "description": "carbonated soft drinks",
+            "languageCode": "en-US"
+          },
+          "categoryEntities": [
+            {
+              "entityId": "/m/0271t",
+              "description": "drink",
+              "languageCode": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "0s",
+                "endTimeOffset": "0.900s"
+              },
+              "confidence": 0.88667214
+            },
+            {
+              "segment": {
+                "startTimeOffset": "23.666666s",
+                "endTimeOffset": "28.766666s"
+              },
+              "confidence": 0.3522363
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/03c31",
+            "description": "graphic design",
+            "languageCode": "en-US"
+          },
+          "categoryEntities": [
+            {
+              "entityId": "/m/0dgsmq8",
+              "description": "artwork",
+              "languageCode": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "28.800s",
+                "endTimeOffset": "29.766666s"
+              },
+              "confidence": 0.30006254
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/023ls",
+            "description": "cola",
+            "languageCode": "en-US"
+          },
+          "categoryEntities": [
+            {
+              "entityId": "/m/0271t",
+              "description": "drink",
+              "languageCode": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "0s",
+                "endTimeOffset": "0.900s"
+              },
+              "confidence": 0.9804113
+            },
+            {
+              "segment": {
+                "startTimeOffset": "0.933333s",
+                "endTimeOffset": "2.700s"
+              },
+              "confidence": 0.80782765
+            },
+            {
+              "segment": {
+                "startTimeOffset": "23.666666s",
+                "endTimeOffset": "28.766666s"
+              },
+              "confidence": 0.95756346
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/0ds5b",
+            "description": "facial hair",
+            "languageCode": "en-US"
+          },
+          "categoryEntities": [
+            {
+              "entityId": "/m/03q69",
+              "description": "hair",
+              "languageCode": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "4.366666s",
+                "endTimeOffset": "5.666666s"
+              },
+              "confidence": 0.41352874
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/04k84",
+            "description": "light",
+            "languageCode": "en-US"
+          },
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "13.266666s",
+                "endTimeOffset": "14.300s"
+              },
+              "confidence": 0.35391864
+            },
+            {
+              "segment": {
+                "startTimeOffset": "15.666666s",
+                "endTimeOffset": "16.633333s"
+              },
+              "confidence": 0.5043422
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/0l7_8",
+            "description": "floor",
+            "languageCode": "en-US"
+          },
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "14.333333s",
+                "endTimeOffset": "15.633333s"
+              },
+              "confidence": 0.41580606
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/01yvs",
+            "description": "coca cola",
+            "languageCode": "en-US"
+          },
+          "categoryEntities": [
+            {
+              "entityId": "/m/023ls",
+              "description": "cola",
+              "languageCode": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "0s",
+                "endTimeOffset": "0.900s"
+              },
+              "confidence": 0.991999
+            },
+            {
+              "segment": {
+                "startTimeOffset": "0.933333s",
+                "endTimeOffset": "2.700s"
+              },
+              "confidence": 0.9615651
+            },
+            {
+              "segment": {
+                "startTimeOffset": "23.666666s",
+                "endTimeOffset": "28.766666s"
+              },
+              "confidence": 0.991999
+            },
+            {
+              "segment": {
+                "startTimeOffset": "28.800s",
+                "endTimeOffset": "29.766666s"
+              },
+              "confidence": 0.7567825
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/04bcr3",
+            "description": "table",
+            "languageCode": "en-US"
+          },
+          "categoryEntities": [
+            {
+              "entityId": "/m/0c_jw",
+              "description": "furniture",
+              "languageCode": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "15.666666s",
+                "endTimeOffset": "16.633333s"
+              },
+              "confidence": 0.4466546
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/07s6nbt",
+            "description": "text",
+            "languageCode": "en-US"
+          },
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "28.800s",
+                "endTimeOffset": "29.766666s"
+              },
+              "confidence": 0.54581964
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/01cd9",
+            "description": "brand",
+            "languageCode": "en-US"
+          },
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "28.800s",
+                "endTimeOffset": "29.766666s"
+              },
+              "confidence": 0.37393785
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/04dr76w",
+            "description": "bottle",
+            "languageCode": "en-US"
+          },
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "0s",
+                "endTimeOffset": "0.900s"
+              },
+              "confidence": 0.947535
+            },
+            {
+              "segment": {
+                "startTimeOffset": "0.933333s",
+                "endTimeOffset": "2.700s"
+              },
+              "confidence": 0.5915532
+            },
+            {
+              "segment": {
+                "startTimeOffset": "19.766666s",
+                "endTimeOffset": "21s"
+              },
+              "confidence": 0.5915532
+            },
+            {
+              "segment": {
+                "startTimeOffset": "23.666666s",
+                "endTimeOffset": "28.766666s"
+              },
+              "confidence": 0.51024264
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/019sc",
+            "description": "black",
+            "languageCode": "en-US"
+          },
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "13.266666s",
+                "endTimeOffset": "14.300s"
+              },
+              "confidence": 0.409576
+            },
+            {
+              "segment": {
+                "startTimeOffset": "15.666666s",
+                "endTimeOffset": "16.633333s"
+              },
+              "confidence": 0.3594448
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/01c34b",
+            "description": "flooring",
+            "languageCode": "en-US"
+          },
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "14.333333s",
+                "endTimeOffset": "15.633333s"
+              },
+              "confidence": 0.39113295
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/0dgw9r",
+            "description": "human",
+            "languageCode": "en-US"
+          },
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "4.366666s",
+                "endTimeOffset": "5.666666s"
+              },
+              "confidence": 0.34160653
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/06ht1",
+            "description": "room",
+            "languageCode": "en-US"
+          },
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "13.266666s",
+                "endTimeOffset": "14.300s"
+              },
+              "confidence": 0.7402945
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/089mxq",
+            "description": "glass bottle",
+            "languageCode": "en-US"
+          },
+          "categoryEntities": [
+            {
+              "entityId": "/m/04dr76w",
+              "description": "bottle",
+              "languageCode": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "0s",
+                "endTimeOffset": "0.900s"
+              },
+              "confidence": 0.5377197
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/019nj4",
+            "description": "smile",
+            "languageCode": "en-US"
+          },
+          "categoryEntities": [
+            {
+              "entityId": "/m/01g317",
+              "description": "person",
+              "languageCode": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "4.366666s",
+                "endTimeOffset": "5.666666s"
+              },
+              "confidence": 0.4044656
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/03q69",
+            "description": "hair",
+            "languageCode": "en-US"
+          },
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "4.366666s",
+                "endTimeOffset": "5.666666s"
+              },
+              "confidence": 0.30503497
+            }
+          ]
+        }
+      ],
+      "segment": {
+        "startTimeOffset": "0s",
+        "endTimeOffset": "29.766666s"
+      }
+    }
+  ]
+}
